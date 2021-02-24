@@ -29,5 +29,4 @@ deploy:
   on:
     branch: development
 
-#First commit with travis
 

@@ -8,7 +8,7 @@ sudo: required
 notifications:
   email:
     recipients:
-      - leon.tan@ncs.com.sg
+      - 1700120@sit.singaporetech.edu.sg
     on_success: always
     on_failure: always
 branches:
