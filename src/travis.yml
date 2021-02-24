@@ -29,5 +29,5 @@ deploy:
   on:
     branch: development
 
-#First commit with travis.YML
+#First commit with travis.yml
 
